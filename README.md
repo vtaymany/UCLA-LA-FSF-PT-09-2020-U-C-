@@ -8,7 +8,7 @@
 
 #### Main
 
-This is where Van Taymany will turn in homework assignments and progress through the course.
+This is where Van Taymany will track his progress and turn in assignments throughout the course.
 
 #### Secondary
 
